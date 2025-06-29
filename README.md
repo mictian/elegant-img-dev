@@ -1,1 +1,1 @@
-# elegant-img-dev
+# elegant-img-dev.
